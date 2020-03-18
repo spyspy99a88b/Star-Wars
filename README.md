@@ -6,7 +6,7 @@
 some code
 ```
 
-# Functions
+# Descriptions
 
 # Purpose and Notes
 
