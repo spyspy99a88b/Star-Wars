@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 34c2bc9dd614743aa850fc5d3efb3896
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _4_Body_1_16_16
+    100004: __EyeballLeft_1_16_16
+    100006: __EyeballRight_1_16_16
+    100008: arm left elbow
+    100010: arm left elbow adj
+    100012: arm left finger 1a
+    100014: arm left finger 1b
+    100016: arm left finger 1c
+    100018: arm left finger 2a
+    100020: arm left finger 2b
+    100022: arm left finger 2c
+    100024: arm left finger 3a
+    100026: arm left finger 3b
+    100028: arm left finger 3c
+    100030: arm left finger 4a
+    100032: arm left finger 4b
+    100034: arm left finger 4c
+    100036: arm left finger 5a
+    100038: arm left finger 5b
+    100040: arm left finger 5c
+    100042: arm left fist
+    100044: arm left lower 1
+    100046: arm left lower 2
+    100048: arm left shirt
+    100050: arm left shoulder 1
+    100052: arm left shoulder 2
+    100054: arm left shoulder adj
+    100056: arm left upper 1
+    100058: arm left upper 2
+    100060: arm left wrist
+    100062: arm right elbow
+    100064: arm right elbow adj
+    100066: arm right finger 1a
+    100068: arm right finger 1b
+    100070: arm right finger 1c
+    100072: arm right finger 2a
+    100074: arm right finger 2b
+    100076: arm right finger 2c
+    100078: arm right finger 3a
+    100080: arm right finger 3b
+    100082: arm right finger 3c
+    100084: arm right finger 4a
+    100086: arm right finger 4b
+    100088: arm right finger 4c
+    100090: arm right finger 5a
+    100092: arm right finger 5b
+    100094: arm right finger 5c
+    100096: arm right fist
+    100098: arm right lower 1
+    100100: arm right lower 2
+    100102: arm right shirt
+    100104: arm right shoulder 1
+    100106: arm right shoulder 2
+    100108: arm right shoulder adj
+    100110: arm right upper 1
+    100112: arm right upper 2
+    100114: arm right wrist
+    100116: Armature
+    100118: hair back 1
+    100120: hair back 2
+    100122: hair back left 1
+    100124: hair back left 2
+    100126: hair back left 3
+    100128: hair back right 1
+    100130: hair back right 2
+    100132: hair back right 3
+    100134: hair front left 1
+    100136: hair front left 2
+    100138: hair front middle 1
+    100140: hair front middle 2
+    100142: hair front right 1
+    100144: hair front right 2
+    100146: hair front side left 1
+    100148: hair front side left 2
+    100150: hair front side right 1
+    100152: hair front side right 2
+    100154: hair front top 1
+    100156: hair front top 2
+    100158: hair front top 3
+    100160: hair left 1
+    100162: hair left 2
+    100164: hair left 3
+    100166: hair right 1
+    100168: hair right 2
+    100170: hair right 3
+    100172: hair root
+    100174: hair upper 1
+    100176: hair upper 2
+    100178: hair upper 3
+    100180: hair upper 4
+    100182: hair upper 5
+    100184: head base root
+    100186: head cheek left 1
+    100188: head cheek left 2
+    100190: head cheek left 3
+    100192: head cheek right 1
+    100194: head cheek right 2
+    100196: head cheek right 3
+    100198: head chin
+    100200: head chin left
+    100202: head chin right
+    100204: head eye left root
+    100206: head eye right root
+    100208: head eyeball left
+    100210: head eyeball right
+    100212: head eyeballs root
+    100214: head eyebrow left 1
+    100216: head eyebrow left 2
+    100218: head eyebrow left 3
+    100220: head eyebrow left 4
+    100222: head eyebrow left 5
+    100224: head eyebrow middle
+    100226: head eyebrow right 1
+    100228: head eyebrow right 2
+    100230: head eyebrow right 3
+    100232: head eyebrow right 4
+    100234: head eyebrow right 5
+    100236: head eyebrow upper left 1
+    100238: head eyebrow upper left 2
+    100240: head eyebrow upper left 3
+    100242: head eyebrow upper left 4
+    100244: head eyebrow upper left 5
+    100246: head eyebrow upper right 1
+    100248: head eyebrow upper right 2
+    100250: head eyebrow upper right 3
+    100252: head eyebrow upper right 4
+    100254: head eyebrow upper right 5
+    100256: head eyelid lower left 1
+    100258: head eyelid lower left 2
+    100260: head eyelid lower left 3
+    100262: head eyelid lower right 1
+    100264: head eyelid lower right 2
+    100266: head eyelid lower right 3
+    100268: head eyelid middle left 1
+    100270: head eyelid middle left 2
+    100272: head eyelid middle right 1
+    100274: head eyelid middle right 2
+    100276: head eyelid upper left 1
+    100278: head eyelid upper left 2
+    100280: head eyelid upper left 3
+    100282: head eyelid upper right 1
+    100284: head eyelid upper right 2
+    100286: head eyelid upper right 3
+    100288: head eyes root
+    100290: head jaw
+    100292: head lip lower left 1
+    100294: head lip lower left 2
+    100296: head lip lower left 3
+    100298: head lip lower middle
+    100300: head lip lower right 1
+    100302: head lip lower right 2
+    100304: head lip lower right 3
+    100306: head lip upper left 1
+    100308: head lip upper left 2
+    100310: head lip upper left 3
+    100312: head lip upper middle
+    100314: head lip upper right 1
+    100316: head lip upper right 2
+    100318: head lip upper right 3
+    100320: head mouth root
+    100322: head neck adj
+    100324: head neck lower
+    100326: head neck upper
+    100328: head nose
+    100330: head root
+    100332: head shadow chin
+    100334: head shadow eyebrow left
+    100336: head shadow eyebrow right
+    100338: head shadow eyecorner left
+    100340: head shadow eyecorner right
+    100342: head shadow eyesocket left
+    100344: head shadow eyesocket right
+    100346: head shadow fore eye left 1
+    100348: head shadow fore eye left 2
+    100350: head shadow fore eye left 3
+    100352: head shadow fore eye left root
+    100354: head shadow fore eye right 1
+    100356: head shadow fore eye right 2
+    100358: head shadow fore eye right 3
+    100360: head shadow fore eye right root
+    100362: head shadow forehead left
+    100364: head shadow forehead middle
+    100366: head shadow forehead right
+    100368: head shadow frown
+    100370: head shadow lip
+    100372: head shadow mouth corner left
+    100374: head shadow mouth corner right
+    100376: head shadow nose left
+    100378: head shadow nose right
+    100380: head teeth lower
+    100382: head teeth upper
+    100384: head tongue
+    100386: leg left ankle
+    100388: leg left hip
+    100390: leg left knee
+    100392: leg left knee ctr
+    100394: leg left lower 1
+    100396: leg left lower 2
+    100398: leg left lower 3
+    100400: leg left thigh
+    100402: leg left toes
+    100404: leg left upper 1
+    100406: leg left upper 2
+    100408: leg left upper 3
+    100410: leg right ankle
+    100412: leg right hip
+    100414: leg right knee
+    100416: leg right knee ctr
+    100418: leg right lower 1
+    100420: leg right lower 2
+    100422: leg right lower 3
+    100424: leg right thigh
+    100426: leg right toes
+    100428: leg right upper 1
+    100430: leg right upper 2
+    100432: leg right upper 3
+    100434: pelvis lower
+    100436: pelvis upper
+    100438: root ground
+    100440: root hips
+    100442: skirt left 1
+    100444: skirt left 2
+    100446: skirt left 3
+    100448: skirt left 4a
+    100450: skirt left 4b
+    100452: skirt left 4c
+    100454: skirt right 1
+    100456: skirt right 2
+    100458: skirt right 3
+    100460: skirt right 4a
+    100462: skirt right 4b
+    100464: skirt right 4c
+    100466: spine adj 1
+    100468: spine adj 2
+    100470: spine lower
+    100472: spine upper
+    100474: unused face root
+    100476: unused fx panes l base
+    100478: unused fx panes l1
+    100480: unused fx panes l2
+    100482: unused fx panes l3
+    100484: unused fx panes l4
+    100486: unused fx panes r base
+    100488: unused fx panes r1
+    100490: unused fx panes r2
+    100492: unused fx panes r3
+    100494: unused fx panes r4
+    100496: unused fx tube l base
+    100498: unused fx tube l1
+    100500: unused fx tube l2
+    100502: unused fx tube l3
+    100504: unused fx tube l4
+    100506: unused fx tube r base
+    100508: unused fx tube r1
+    100510: unused fx tube r2
+    100512: unused fx tube r3
+    100514: unused fx tube r4
+    100516: unused g eye base l l
+    100518: unused g eye base r l
+    100520: unused g eye l
+    100522: unused g eye l l
+    100524: unused g eye l n
+    100526: unused g eye r
+    100528: unused g eye r l
+    100530: unused g eye r n
+    100532: unused g eyes base l
+    100534: unused g face base l
+    100536: unused g hair b
+    100538: unused g hair base
+    100540: unused g hair base l
+    100542: unused g hair fml1
+    100544: unused g hair fml2
+    100546: unused g hair fmm1
+    100548: unused g hair fmm2
+    100550: unused g hair fmr1
+    100552: unused g hair fmr2
+    100554: unused g hair fsl1
+    100556: unused g hair fsr1
+    100558: unused g hair ml
+    100560: unused g hair mm
+    100562: unused g hair mr
+    100564: unused g hip l
+    100566: unused g hip r
+    100568: unused g mouth base l
+    100570: unused g pupils base l
+    100572: unused g spaulder l
+    100574: unused g spaulder r
+    100576: unused g uparm lookelbow l
+    100578: unused g uparm lookelbow r
+    100580: unused gd ago l
+    100582: unused gd calf low l
+    100584: unused gd calf low r
+    100586: unused gd calf mid l
+    100588: unused gd calf mid r
+    100590: unused gd calf up l
+    100592: unused gd calf up r
+    100594: unused gd cheekbone l l
+    100596: unused gd cheekbone r l
+    100598: unused gd cheekline l l
+    100600: unused gd cheekline r l
+    100602: unused gd elbow l
+    100604: unused gd elbow r
+    100606: unused gd era l l
+    100608: unused gd era r l
+    100610: unused gd eyelid lowin l l
+    100612: unused gd eyelid lowin r l
+    100614: unused gd eyelid lowmid l l
+    100616: unused gd eyelid lowmid r l
+    100618: unused gd eyelid lowout l l
+    100620: unused gd eyelid lowout r l
+    100622: unused gd eyelid upin l l
+    100624: unused gd eyelid upin r l
+    100626: unused gd eyelid upmid l l
+    100628: unused gd eyelid upmid r l
+    100630: unused gd eyelid upout l l
+    100632: unused gd eyelid upout r l
+    100634: unused gd eyesocket l l
+    100636: unused gd eyesocket r l
+    100638: unused gd frown forehead l l
+    100640: unused gd frown forehead m l
+    100642: unused gd frown forehead r l
+    100644: unused gd frown lowlip l
+    100646: unused gd frown mayu l
+    100648: unused gd frown mayu l l
+    100650: unused gd frown mayu r
+    100652: unused gd frown mayu r l
+    100654: unused gd frown miken m l
+    100656: unused gd frown nose l l
+    100658: unused gd frown nose r l
+    100660: unused gd hiphalf l
+    100662: unused gd hiphalf r
+    100664: unused gd jaw end l
+    100666: unused gd knee l
+    100668: unused gd knee r
+    100670: unused gd lip low center l
+    100672: unused gd lip low end l l
+    100674: unused gd lip low end r l
+    100676: unused gd lip low in l l
+    100678: unused gd lip low in r l
+    100680: unused gd lip low out l l
+    100682: unused gd lip low out r l
+    100684: unused gd lip shadow l
+    100686: unused gd lip up center l
+    100688: unused gd lip up end l l
+    100690: unused gd lip up end r l
+    100692: unused gd lip up in l l
+    100694: unused gd lip up in r l
+    100696: unused gd lip up out l l
+    100698: unused gd lip up out r l
+    100700: unused gd lowarm low l
+    100702: unused gd lowarm low r
+    100704: unused gd lowarm mid l
+    100706: unused gd lowarm mid r
+    100708: unused gd lowarm up l
+    100710: unused gd lowarm up r
+    100712: unused gd mayu 1 l l
+    100714: unused gd mayu 1 r l
+    100716: unused gd mayu 2 l l
+    100718: unused gd mayu 2 r l
+    100720: unused gd mayu 3 l l
+    100722: unused gd mayu 3 r l
+    100724: unused gd mayu 4 l l
+    100726: unused gd mayu 4 r l
+    100728: unused gd mayu 5 l l
+    100730: unused gd mayu 5 r l
+    100732: unused gd miken l
+    100734: unused gd mouth siwa l l
+    100736: unused gd mouth siwa r l
+    100738: unused gd nose l
+    100740: unused gd pupil l l
+    100742: unused gd pupil r l
+    100744: unused gd shldrHalf l
+    100746: unused gd shldrhalf r
+    100748: unused gd teeth low l
+    100750: unused gd teeth up l
+    100752: unused gd thigh low l
+    100754: unused gd thigh low r
+    100756: unused gd thigh mid l
+    100758: unused gd thigh mid r
+    100760: unused gd thigh up l
+    100762: unused gd thigh up r
+    100764: unused gd uparm low l
+    100766: unused gd uparm low r
+    100768: unused gd uparm mid l
+    100770: unused gd uparm mid r
+    100772: unused gd uparm up l
+    100774: unused gd uparm up r
+    100776: unused gd waist scl
+    100778: unused gdu bake arm1
+    100780: unused gdu bake arm1 a
+    100782: unused gdu bake arm1 b
+    100784: unused gdu bake arm1 c
+    100786: unused gdu bake arm2
+    100788: unused gdu bake arm2 a
+    100790: unused gdu bake arm2 b
+    100792: unused gdu bake arm2 c
+    100794: unused gdu bake arm3
+    100796: unused gdu bake arm3 a
+    100798: unused gdu bake arm3 b
+    100800: unused gdu bake arm3 c
+    100802: unused gdu bake arm4
+    100804: unused gdu bake arm4 a
+    100806: unused gdu bake arm4 b
+    100808: unused gdu bake arm4 c
+    100810: unused gdu bake arm5
+    100812: unused gdu bake arm5 a
+    100814: unused gdu bake arm5 b
+    100816: unused gdu bake arm5 c
+    100818: unused gdu bake foot1
+    100820: unused gdu bake foot1 a
+    100822: unused gdu bake foot1 b
+    100824: unused gdu bake foot1 c
+    100826: unused gdu bake foot2
+    100828: unused gdu bake foot2 a
+    100830: unused gdu bake foot2 b
+    100832: unused gdu bake foot2 c
+    100834: unused gdu bake foot3
+    100836: unused gdu bake foot3 a
+    100838: unused gdu bake foot3 b
+    100840: unused gdu bake foot3 c
+    100842: unused gdu bake foot4
+    100844: unused gdu bake foot4 a
+    100846: unused gdu bake foot4 b
+    100848: unused gdu bake foot4 c
+    100850: unused gdu bake foot5
+    100852: unused gdu bake foot5 a
+    100854: unused gdu bake foot5 b
+    100856: unused gdu bake foot5 c
+    100858: unused gdu bake sub1
+    100860: unused gdu bake sub1 a
+    100862: unused gdu bake sub1 b
+    100864: unused gdu bake sub1 c
+    100866: unused gdu bake sub2
+    100868: unused gdu bake sub2 a
+    100870: unused gdu bake sub2 b
+    100872: unused gdu bake sub2 c
+    100874: unused gdu bake sub3
+    100876: unused gdu bake sub3 a
+    100878: unused gdu bake sub3 b
+    100880: unused gdu bake sub3 c
+    100882: unused gdu bake sub4
+    100884: unused gdu bake sub4 a
+    100886: unused gdu bake sub4 b
+    100888: unused gdu bake sub4 c
+    100890: unused gdu bake sub5
+    100892: unused gdu bake sub5 a
+    100894: unused gdu bake sub5 b
+    100896: unused gdu bake sub5 c
+    100898: unused gdu cheek shadow l l
+    100900: unused gdu cheek shadow r l
+    100902: unused gdu hair fr1 l
+    100904: unused gdu hair fr2 l
+    100906: unused gdu hair ml l
+    100908: unused gdu hair mm l
+    100910: unused gdu hair mr l
+    100912: unused gdu obi l1
+    100914: unused gdu obi l2
+    100916: unused gdu obi l3
+    100918: unused gdu obi l4
+    100920: unused gdu obi r1
+    100922: unused gdu obi r2
+    100924: unused gdu obi r3
+    100926: unused gdu obi root
+    100928: unused gdu skirt bl1
+    100930: unused gdu skirt bl2
+    100932: unused gdu skirt bm1
+    100934: unused gdu skirt bm2
+    100936: unused gdu skirt br1
+    100938: unused gdu skirt br2
+    100940: unused gdu skirt fl1
+    100942: unused gdu skirt fl1 1
+    100944: unused gdu skirt fl2
+    100946: unused gdu skirt fl2 1
+    100948: unused gdu skirt fm1
+    100950: unused gdu skirt fm2
+    100952: unused gdu skirt fr1
+    100954: unused gdu skirt fr2
+    100956: unused gdu skirt ll1
+    100958: unused gdu skirt ll2
+    100960: unused gdu skirt ll3
+    100962: unused gdu skirt rr1
+    100964: unused gdu skirt rr2
+    100966: unused gdu skirt rr3
+    100968: unused gdu skirtin fr1
+    100970: unused gdu skirtin fr2
+    100972: unused gdu stem1 l
+    100974: unused gdu stem2 l
+    100976: unused gdu stem3 l
+    100978: unused gdu stem4 l
+    100980: unused gdu twig1 l l
+    100982: unused gdu twig1 r l
+    100984: unused gdu twig1 top l
+    100986: unused gdu twig1 under l
+    100988: unused gdu twig2 l l
+    100990: unused gdu twig2 r l
+    100992: unused gdu twig2 top l
+    100994: unused gdu twig2 under l
+    100996: unused gdu twig3 l l
+    100998: unused gdu twig3 r l
+    101000: unused gdu twig3 top l
+    101002: unused gdu twig3 under l
+    101004: unused gdu twig4 l l
+    101006: unused gdu twig4 r l
+    101008: unused gdu twig4 top l
+    101010: unused gdu twig4 under l
+    101012: unused gp chest
+    101014: unused gp clavicle l
+    101016: unused gp clavicle r
+    101018: unused gp lowarm l
+    101020: unused gp lowarm r
+    101022: unused gp stomach
+    101024: unused head cheek left 2
+    101026: unused head cheek left 3
+    101028: unused head cheek left 4
+    101030: unused head cheek right 2
+    101032: unused head cheek right 3
+    101034: unused head cheek right 4
+    101036: unused head chin left
+    101038: unused head chin right
+    101040: unused head eye left root
+    101042: unused head eye right root
+    101044: unused head eyeball left
+    101046: unused head eyeball right
+    101048: unused head eyeballs
+    101050: unused head eyebrow left 1
+    101052: unused head eyebrow left 2
+    101054: unused head eyebrow left 3
+    101056: unused head eyebrow left 4
+    101058: unused head eyebrow left 5
+    101060: unused head eyebrow middle
+    101062: unused head eyebrow right 1
+    101064: unused head eyebrow right 2
+    101066: unused head eyebrow right 3
+    101068: unused head eyebrow right 4
+    101070: unused head eyebrow right 5
+    101072: unused head eyelid lower left 1
+    101074: unused head eyelid lower left 2
+    101076: unused head eyelid lower left 3
+    101078: unused head eyelid lower right 1
+    101080: unused head eyelid lower right 2
+    101082: unused head eyelid lower right 3
+    101084: unused head eyelid upper left 1
+    101086: unused head eyelid upper left 2
+    101088: unused head eyelid upper left 4
+    101090: unused head eyelid upper right 1
+    101092: unused head eyelid upper right 2
+    101094: unused head eyelid upper right 4
+    101096: unused head eyes root
+    101098: unused head jaw
+    101100: unused head jaw ctr
+    101102: unused head lip lower left 1
+    101104: unused head lip lower left 2
+    101106: unused head lip lower left 3
+    101108: unused head lip lower middle
+    101110: unused head lip lower right 1
+    101112: unused head lip lower right 2
+    101114: unused head lip lower right 3
+    101116: unused head lip upper left 1
+    101118: unused head lip upper left 2
+    101120: unused head lip upper left 3
+    101122: unused head lip upper middle
+    101124: unused head lip upper right 1
+    101126: unused head lip upper right 2
+    101128: unused head lip upper right 3
+    101130: unused head neck upper attached_dbfz - android 18 (dbs)
+    101132: unused head neck upper attached_dbfz - android 18 (dbs).001
+    101134: unused head neck upper attached_dbfz - android 18 (dbs).002
+    101136: unused head neck upper attached_dbfz - android 18 (dbs).003
+    101138: unused head neck upper attached_dbfz - android 18 (dbs).004
+    101140: unused head neck upper attached_model
+    101142: unused head nose
+    101144: unused head shadow cheek left
+    101146: unused head shadow cheek right
+    101148: unused head shadow eyebrow middle 2
+    101150: unused head shadow eyesocket left
+    101152: unused head shadow eyesocket right
+    101154: unused head shadow forehead left
+    101156: unused head shadow forehead middle
+    101158: unused head shadow forehead right
+    101160: unused head shadow lip lower
+    101162: unused head shadow lip upper
+    101164: unused head shadow nostril upper left
+    101166: unused head shadow nostril upper right
+    101168: unused head teeth lower
+    101170: unused head teeth upper
+    101172: unused jaw root
+    101174: unused tail 01
+    101176: unused tail 02
+    101178: unused tail 03
+    101180: unused tail 04
+    101182: unused tail 05
+    400000: //RootNode
+    400002: _4_Body_1_16_16
+    400004: __EyeballLeft_1_16_16
+    400006: __EyeballRight_1_16_16
+    400008: arm left elbow
+    400010: arm left elbow adj
+    400012: arm left finger 1a
+    400014: arm left finger 1b
+    400016: arm left finger 1c
+    400018: arm left finger 2a
+    400020: arm left finger 2b
+    400022: arm left finger 2c
+    400024: arm left finger 3a
+    400026: arm left finger 3b
+    400028: arm left finger 3c
+    400030: arm left finger 4a
+    400032: arm left finger 4b
+    400034: arm left finger 4c
+    400036: arm left finger 5a
+    400038: arm left finger 5b
+    400040: arm left finger 5c
+    400042: arm left fist
+    400044: arm left lower 1
+    400046: arm left lower 2
+    400048: arm left shirt
+    400050: arm left shoulder 1
+    400052: arm left shoulder 2
+    400054: arm left shoulder adj
+    400056: arm left upper 1
+    400058: arm left upper 2
+    400060: arm left wrist
+    400062: arm right elbow
+    400064: arm right elbow adj
+    400066: arm right finger 1a
+    400068: arm right finger 1b
+    400070: arm right finger 1c
+    400072: arm right finger 2a
+    400074: arm right finger 2b
+    400076: arm right finger 2c
+    400078: arm right finger 3a
+    400080: arm right finger 3b
+    400082: arm right finger 3c
+    400084: arm right finger 4a
+    400086: arm right finger 4b
+    400088: arm right finger 4c
+    400090: arm right finger 5a
+    400092: arm right finger 5b
+    400094: arm right finger 5c
+    400096: arm right fist
+    400098: arm right lower 1
+    400100: arm right lower 2
+    400102: arm right shirt
+    400104: arm right shoulder 1
+    400106: arm right shoulder 2
+    400108: arm right shoulder adj
+    400110: arm right upper 1
+    400112: arm right upper 2
+    400114: arm right wrist
+    400116: Armature
+    400118: hair back 1
+    400120: hair back 2
+    400122: hair back left 1
+    400124: hair back left 2
+    400126: hair back left 3
+    400128: hair back right 1
+    400130: hair back right 2
+    400132: hair back right 3
+    400134: hair front left 1
+    400136: hair front left 2
+    400138: hair front middle 1
+    400140: hair front middle 2
+    400142: hair front right 1
+    400144: hair front right 2
+    400146: hair front side left 1
+    400148: hair front side left 2
+    400150: hair front side right 1
+    400152: hair front side right 2
+    400154: hair front top 1
+    400156: hair front top 2
+    400158: hair front top 3
+    400160: hair left 1
+    400162: hair left 2
+    400164: hair left 3
+    400166: hair right 1
+    400168: hair right 2
+    400170: hair right 3
+    400172: hair root
+    400174: hair upper 1
+    400176: hair upper 2
+    400178: hair upper 3
+    400180: hair upper 4
+    400182: hair upper 5
+    400184: head base root
+    400186: head cheek left 1
+    400188: head cheek left 2
+    400190: head cheek left 3
+    400192: head cheek right 1
+    400194: head cheek right 2
+    400196: head cheek right 3
+    400198: head chin
+    400200: head chin left
+    400202: head chin right
+    400204: head eye left root
+    400206: head eye right root
+    400208: head eyeball left
+    400210: head eyeball right
+    400212: head eyeballs root
+    400214: head eyebrow left 1
+    400216: head eyebrow left 2
+    400218: head eyebrow left 3
+    400220: head eyebrow left 4
+    400222: head eyebrow left 5
+    400224: head eyebrow middle
+    400226: head eyebrow right 1
+    400228: head eyebrow right 2
+    400230: head eyebrow right 3
+    400232: head eyebrow right 4
+    400234: head eyebrow right 5
+    400236: head eyebrow upper left 1
+    400238: head eyebrow upper left 2
+    400240: head eyebrow upper left 3
+    400242: head eyebrow upper left 4
+    400244: head eyebrow upper left 5
+    400246: head eyebrow upper right 1
+    400248: head eyebrow upper right 2
+    400250: head eyebrow upper right 3
+    400252: head eyebrow upper right 4
+    400254: head eyebrow upper right 5
+    400256: head eyelid lower left 1
+    400258: head eyelid lower left 2
+    400260: head eyelid lower left 3
+    400262: head eyelid lower right 1
+    400264: head eyelid lower right 2
+    400266: head eyelid lower right 3
+    400268: head eyelid middle left 1
+    400270: head eyelid middle left 2
+    400272: head eyelid middle right 1
+    400274: head eyelid middle right 2
+    400276: head eyelid upper left 1
+    400278: head eyelid upper left 2
+    400280: head eyelid upper left 3
+    400282: head eyelid upper right 1
+    400284: head eyelid upper right 2
+    400286: head eyelid upper right 3
+    400288: head eyes root
+    400290: head jaw
+    400292: head lip lower left 1
+    400294: head lip lower left 2
+    400296: head lip lower left 3
+    400298: head lip lower middle
+    400300: head lip lower right 1
+    400302: head lip lower right 2
+    400304: head lip lower right 3
+    400306: head lip upper left 1
+    400308: head lip upper left 2
+    400310: head lip upper left 3
+    400312: head lip upper middle
+    400314: head lip upper right 1
+    400316: head lip upper right 2
+    400318: head lip upper right 3
+    400320: head mouth root
+    400322: head neck adj
+    400324: head neck lower
+    400326: head neck upper
+    400328: head nose
+    400330: head root
+    400332: head shadow chin
+    400334: head shadow eyebrow left
+    400336: head shadow eyebrow right
+    400338: head shadow eyecorner left
+    400340: head shadow eyecorner right
+    400342: head shadow eyesocket left
+    400344: head shadow eyesocket right
+    400346: head shadow fore eye left 1
+    400348: head shadow fore eye left 2
+    400350: head shadow fore eye left 3
+    400352: head shadow fore eye left root
+    400354: head shadow fore eye right 1
+    400356: head shadow fore eye right 2
+    400358: head shadow fore eye right 3
+    400360: head shadow fore eye right root
+    400362: head shadow forehead left
+    400364: head shadow forehead middle
+    400366: head shadow forehead right
+    400368: head shadow frown
+    400370: head shadow lip
+    400372: head shadow mouth corner left
+    400374: head shadow mouth corner right
+    400376: head shadow nose left
+    400378: head shadow nose right
+    400380: head teeth lower
+    400382: head teeth upper
+    400384: head tongue
+    400386: leg left ankle
+    400388: leg left hip
+    400390: leg left knee
+    400392: leg left knee ctr
+    400394: leg left lower 1
+    400396: leg left lower 2
+    400398: leg left lower 3
+    400400: leg left thigh
+    400402: leg left toes
+    400404: leg left upper 1
+    400406: leg left upper 2
+    400408: leg left upper 3
+    400410: leg right ankle
+    400412: leg right hip
+    400414: leg right knee
+    400416: leg right knee ctr
+    400418: leg right lower 1
+    400420: leg right lower 2
+    400422: leg right lower 3
+    400424: leg right thigh
+    400426: leg right toes
+    400428: leg right upper 1
+    400430: leg right upper 2
+    400432: leg right upper 3
+    400434: pelvis lower
+    400436: pelvis upper
+    400438: root ground
+    400440: root hips
+    400442: skirt left 1
+    400444: skirt left 2
+    400446: skirt left 3
+    400448: skirt left 4a
+    400450: skirt left 4b
+    400452: skirt left 4c
+    400454: skirt right 1
+    400456: skirt right 2
+    400458: skirt right 3
+    400460: skirt right 4a
+    400462: skirt right 4b
+    400464: skirt right 4c
+    400466: spine adj 1
+    400468: spine adj 2
+    400470: spine lower
+    400472: spine upper
+    400474: unused face root
+    400476: unused fx panes l base
+    400478: unused fx panes l1
+    400480: unused fx panes l2
+    400482: unused fx panes l3
+    400484: unused fx panes l4
+    400486: unused fx panes r base
+    400488: unused fx panes r1
+    400490: unused fx panes r2
+    400492: unused fx panes r3
+    400494: unused fx panes r4
+    400496: unused fx tube l base
+    400498: unused fx tube l1
+    400500: unused fx tube l2
+    400502: unused fx tube l3
+    400504: unused fx tube l4
+    400506: unused fx tube r base
+    400508: unused fx tube r1
+    400510: unused fx tube r2
+    400512: unused fx tube r3
+    400514: unused fx tube r4
+    400516: unused g eye base l l
+    400518: unused g eye base r l
+    400520: unused g eye l
+    400522: unused g eye l l
+    400524: unused g eye l n
+    400526: unused g eye r
+    400528: unused g eye r l
+    400530: unused g eye r n
+    400532: unused g eyes base l
+    400534: unused g face base l
+    400536: unused g hair b
+    400538: unused g hair base
+    400540: unused g hair base l
+    400542: unused g hair fml1
+    400544: unused g hair fml2
+    400546: unused g hair fmm1
+    400548: unused g hair fmm2
+    400550: unused g hair fmr1
+    400552: unused g hair fmr2
+    400554: unused g hair fsl1
+    400556: unused g hair fsr1
+    400558: unused g hair ml
+    400560: unused g hair mm
+    400562: unused g hair mr
+    400564: unused g hip l
+    400566: unused g hip r
+    400568: unused g mouth base l
+    400570: unused g pupils base l
+    400572: unused g spaulder l
+    400574: unused g spaulder r
+    400576: unused g uparm lookelbow l
+    400578: unused g uparm lookelbow r
+    400580: unused gd ago l
+    400582: unused gd calf low l
+    400584: unused gd calf low r
+    400586: unused gd calf mid l
+    400588: unused gd calf mid r
+    400590: unused gd calf up l
+    400592: unused gd calf up r
+    400594: unused gd cheekbone l l
+    400596: unused gd cheekbone r l
+    400598: unused gd cheekline l l
+    400600: unused gd cheekline r l
+    400602: unused gd elbow l
+    400604: unused gd elbow r
+    400606: unused gd era l l
+    400608: unused gd era r l
+    400610: unused gd eyelid lowin l l
+    400612: unused gd eyelid lowin r l
+    400614: unused gd eyelid lowmid l l
+    400616: unused gd eyelid lowmid r l
+    400618: unused gd eyelid lowout l l
+    400620: unused gd eyelid lowout r l
+    400622: unused gd eyelid upin l l
+    400624: unused gd eyelid upin r l
+    400626: unused gd eyelid upmid l l
+    400628: unused gd eyelid upmid r l
+    400630: unused gd eyelid upout l l
+    400632: unused gd eyelid upout r l
+    400634: unused gd eyesocket l l
+    400636: unused gd eyesocket r l
+    400638: unused gd frown forehead l l
+    400640: unused gd frown forehead m l
+    400642: unused gd frown forehead r l
+    400644: unused gd frown lowlip l
+    400646: unused gd frown mayu l
+    400648: unused gd frown mayu l l
+    400650: unused gd frown mayu r
+    400652: unused gd frown mayu r l
+    400654: unused gd frown miken m l
+    400656: unused gd frown nose l l
+    400658: unused gd frown nose r l
+    400660: unused gd hiphalf l
+    400662: unused gd hiphalf r
+    400664: unused gd jaw end l
+    400666: unused gd knee l
+    400668: unused gd knee r
+    400670: unused gd lip low center l
+    400672: unused gd lip low end l l
+    400674: unused gd lip low end r l
+    400676: unused gd lip low in l l
+    400678: unused gd lip low in r l
+    400680: unused gd lip low out l l
+    400682: unused gd lip low out r l
+    400684: unused gd lip shadow l
+    400686: unused gd lip up center l
+    400688: unused gd lip up end l l
+    400690: unused gd lip up end r l
+    400692: unused gd lip up in l l
+    400694: unused gd lip up in r l
+    400696: unused gd lip up out l l
+    400698: unused gd lip up out r l
+    400700: unused gd lowarm low l
+    400702: unused gd lowarm low r
+    400704: unused gd lowarm mid l
+    400706: unused gd lowarm mid r
+    400708: unused gd lowarm up l
+    400710: unused gd lowarm up r
+    400712: unused gd mayu 1 l l
+    400714: unused gd mayu 1 r l
+    400716: unused gd mayu 2 l l
+    400718: unused gd mayu 2 r l
+    400720: unused gd mayu 3 l l
+    400722: unused gd mayu 3 r l
+    400724: unused gd mayu 4 l l
+    400726: unused gd mayu 4 r l
+    400728: unused gd mayu 5 l l
+    400730: unused gd mayu 5 r l
+    400732: unused gd miken l
+    400734: unused gd mouth siwa l l
+    400736: unused gd mouth siwa r l
+    400738: unused gd nose l
+    400740: unused gd pupil l l
+    400742: unused gd pupil r l
+    400744: unused gd shldrHalf l
+    400746: unused gd shldrhalf r
+    400748: unused gd teeth low l
+    400750: unused gd teeth up l
+    400752: unused gd thigh low l
+    400754: unused gd thigh low r
+    400756: unused gd thigh mid l
+    400758: unused gd thigh mid r
+    400760: unused gd thigh up l
+    400762: unused gd thigh up r
+    400764: unused gd uparm low l
+    400766: unused gd uparm low r
+    400768: unused gd uparm mid l
+    400770: unused gd uparm mid r
+    400772: unused gd uparm up l
+    400774: unused gd uparm up r
+    400776: unused gd waist scl
+    400778: unused gdu bake arm1
+    400780: unused gdu bake arm1 a
+    400782: unused gdu bake arm1 b
+    400784: unused gdu bake arm1 c
+    400786: unused gdu bake arm2
+    400788: unused gdu bake arm2 a
+    400790: unused gdu bake arm2 b
+    400792: unused gdu bake arm2 c
+    400794: unused gdu bake arm3
+    400796: unused gdu bake arm3 a
+    400798: unused gdu bake arm3 b
+    400800: unused gdu bake arm3 c
+    400802: unused gdu bake arm4
+    400804: unused gdu bake arm4 a
+    400806: unused gdu bake arm4 b
+    400808: unused gdu bake arm4 c
+    400810: unused gdu bake arm5
+    400812: unused gdu bake arm5 a
+    400814: unused gdu bake arm5 b
+    400816: unused gdu bake arm5 c
+    400818: unused gdu bake foot1
+    400820: unused gdu bake foot1 a
+    400822: unused gdu bake foot1 b
+    400824: unused gdu bake foot1 c
+    400826: unused gdu bake foot2
+    400828: unused gdu bake foot2 a
+    400830: unused gdu bake foot2 b
+    400832: unused gdu bake foot2 c
+    400834: unused gdu bake foot3
+    400836: unused gdu bake foot3 a
+    400838: unused gdu bake foot3 b
+    400840: unused gdu bake foot3 c
+    400842: unused gdu bake foot4
+    400844: unused gdu bake foot4 a
+    400846: unused gdu bake foot4 b
+    400848: unused gdu bake foot4 c
+    400850: unused gdu bake foot5
+    400852: unused gdu bake foot5 a
+    400854: unused gdu bake foot5 b
+    400856: unused gdu bake foot5 c
+    400858: unused gdu bake sub1
+    400860: unused gdu bake sub1 a
+    400862: unused gdu bake sub1 b
+    400864: unused gdu bake sub1 c
+    400866: unused gdu bake sub2
+    400868: unused gdu bake sub2 a
+    400870: unused gdu bake sub2 b
+    400872: unused gdu bake sub2 c
+    400874: unused gdu bake sub3
+    400876: unused gdu bake sub3 a
+    400878: unused gdu bake sub3 b
+    400880: unused gdu bake sub3 c
+    400882: unused gdu bake sub4
+    400884: unused gdu bake sub4 a
+    400886: unused gdu bake sub4 b
+    400888: unused gdu bake sub4 c
+    400890: unused gdu bake sub5
+    400892: unused gdu bake sub5 a
+    400894: unused gdu bake sub5 b
+    400896: unused gdu bake sub5 c
+    400898: unused gdu cheek shadow l l
+    400900: unused gdu cheek shadow r l
+    400902: unused gdu hair fr1 l
+    400904: unused gdu hair fr2 l
+    400906: unused gdu hair ml l
+    400908: unused gdu hair mm l
+    400910: unused gdu hair mr l
+    400912: unused gdu obi l1
+    400914: unused gdu obi l2
+    400916: unused gdu obi l3
+    400918: unused gdu obi l4
+    400920: unused gdu obi r1
+    400922: unused gdu obi r2
+    400924: unused gdu obi r3
+    400926: unused gdu obi root
+    400928: unused gdu skirt bl1
+    400930: unused gdu skirt bl2
+    400932: unused gdu skirt bm1
+    400934: unused gdu skirt bm2
+    400936: unused gdu skirt br1
+    400938: unused gdu skirt br2
+    400940: unused gdu skirt fl1
+    400942: unused gdu skirt fl1 1
+    400944: unused gdu skirt fl2
+    400946: unused gdu skirt fl2 1
+    400948: unused gdu skirt fm1
+    400950: unused gdu skirt fm2
+    400952: unused gdu skirt fr1
+    400954: unused gdu skirt fr2
+    400956: unused gdu skirt ll1
+    400958: unused gdu skirt ll2
+    400960: unused gdu skirt ll3
+    400962: unused gdu skirt rr1
+    400964: unused gdu skirt rr2
+    400966: unused gdu skirt rr3
+    400968: unused gdu skirtin fr1
+    400970: unused gdu skirtin fr2
+    400972: unused gdu stem1 l
+    400974: unused gdu stem2 l
+    400976: unused gdu stem3 l
+    400978: unused gdu stem4 l
+    400980: unused gdu twig1 l l
+    400982: unused gdu twig1 r l
+    400984: unused gdu twig1 top l
+    400986: unused gdu twig1 under l
+    400988: unused gdu twig2 l l
+    400990: unused gdu twig2 r l
+    400992: unused gdu twig2 top l
+    400994: unused gdu twig2 under l
+    400996: unused gdu twig3 l l
+    400998: unused gdu twig3 r l
+    401000: unused gdu twig3 top l
+    401002: unused gdu twig3 under l
+    401004: unused gdu twig4 l l
+    401006: unused gdu twig4 r l
+    401008: unused gdu twig4 top l
+    401010: unused gdu twig4 under l
+    401012: unused gp chest
+    401014: unused gp clavicle l
+    401016: unused gp clavicle r
+    401018: unused gp lowarm l
+    401020: unused gp lowarm r
+    401022: unused gp stomach
+    401024: unused head cheek left 2
+    401026: unused head cheek left 3
+    401028: unused head cheek left 4
+    401030: unused head cheek right 2
+    401032: unused head cheek right 3
+    401034: unused head cheek right 4
+    401036: unused head chin left
+    401038: unused head chin right
+    401040: unused head eye left root
+    401042: unused head eye right root
+    401044: unused head eyeball left
+    401046: unused head eyeball right
+    401048: unused head eyeballs
+    401050: unused head eyebrow left 1
+    401052: unused head eyebrow left 2
+    401054: unused head eyebrow left 3
+    401056: unused head eyebrow left 4
+    401058: unused head eyebrow left 5
+    401060: unused head eyebrow middle
+    401062: unused head eyebrow right 1
+    401064: unused head eyebrow right 2
+    401066: unused head eyebrow right 3
+    401068: unused head eyebrow right 4
+    401070: unused head eyebrow right 5
+    401072: unused head eyelid lower left 1
+    401074: unused head eyelid lower left 2
+    401076: unused head eyelid lower left 3
+    401078: unused head eyelid lower right 1
+    401080: unused head eyelid lower right 2
+    401082: unused head eyelid lower right 3
+    401084: unused head eyelid upper left 1
+    401086: unused head eyelid upper left 2
+    401088: unused head eyelid upper left 4
+    401090: unused head eyelid upper right 1
+    401092: unused head eyelid upper right 2
+    401094: unused head eyelid upper right 4
+    401096: unused head eyes root
+    401098: unused head jaw
+    401100: unused head jaw ctr
+    401102: unused head lip lower left 1
+    401104: unused head lip lower left 2
+    401106: unused head lip lower left 3
+    401108: unused head lip lower middle
+    401110: unused head lip lower right 1
+    401112: unused head lip lower right 2
+    401114: unused head lip lower right 3
+    401116: unused head lip upper left 1
+    401118: unused head lip upper left 2
+    401120: unused head lip upper left 3
+    401122: unused head lip upper middle
+    401124: unused head lip upper right 1
+    401126: unused head lip upper right 2
+    401128: unused head lip upper right 3
+    401130: unused head neck upper attached_dbfz - android 18 (dbs)
+    401132: unused head neck upper attached_dbfz - android 18 (dbs).001
+    401134: unused head neck upper attached_dbfz - android 18 (dbs).002
+    401136: unused head neck upper attached_dbfz - android 18 (dbs).003
+    401138: unused head neck upper attached_dbfz - android 18 (dbs).004
+    401140: unused head neck upper attached_model
+    401142: unused head nose
+    401144: unused head shadow cheek left
+    401146: unused head shadow cheek right
+    401148: unused head shadow eyebrow middle 2
+    401150: unused head shadow eyesocket left
+    401152: unused head shadow eyesocket right
+    401154: unused head shadow forehead left
+    401156: unused head shadow forehead middle
+    401158: unused head shadow forehead right
+    401160: unused head shadow lip lower
+    401162: unused head shadow lip upper
+    401164: unused head shadow nostril upper left
+    401166: unused head shadow nostril upper right
+    401168: unused head teeth lower
+    401170: unused head teeth upper
+    401172: unused jaw root
+    401174: unused tail 01
+    401176: unused tail 02
+    401178: unused tail 03
+    401180: unused tail 04
+    401182: unused tail 05
+    2100000: _4_Body_1_16_16
+    2100002: __EyeballLeft_1_16_16
+    2100004: __EyeballRight_1_16_16
+    4300000: _4_Body_1_16_16
+    4300002: __EyeballLeft_1_16_16
+    4300004: __EyeballRight_1_16_16
+    9500000: //RootNode
+    13700000: _4_Body_1_16_16
+    13700002: __EyeballLeft_1_16_16
+    13700004: __EyeballRight_1_16_16
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
